@@ -530,7 +530,7 @@ Write a function `print_fibonacci()` that prints a list of the
 [fibonacci sequence][fibonacci sequence] up to the length provided in the
 function's parameters.
 
-```py
+```pypytes
 print_fibonacci(9)
 # => [0, 1, 1, 2, 3, 5, 8, 13, 21]
 ```
